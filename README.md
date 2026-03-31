@@ -9,7 +9,10 @@ Task 2 – Professional Platform Strategy
 Built a professional presence on GitHub (BobbyRoy360), LinkedIn, and Kaggle, with a four-year roadmap targeting consistent contributions, Kaggle ranking, and internship readiness by 2029.
 Task 3 – Python Fundamentals & Digital Awareness Quiz
 Practiced Python on CodeChef (arithmetic, print() function) and completed a Digital Literacy Awareness Quiz on Google Forms testing phishing detection and cybersecurity knowledge.
-🔗 Quiz Link: Digital Literacy Awareness Quiz
+🔗 Quiz Link: Digital Literacy Awareness Quiz 
+https://docs.google.com/forms/d/e/1FAIpQLSfalH2Sgfi8hYIi3
+8mADb
+l6q5TW65WuLY4SBaXfSf2Dkga_Q/viewform?usp=header
 Task 4 – Professional Communication
 Drafted two professional emails (assignment extension request & internship inquiry) and created a Social Media Do's and Don'ts Checklist for college students.
 Task 5 – Cybersecurity Case Study & Prevention Checklist
